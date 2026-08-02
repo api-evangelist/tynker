@@ -1,0 +1,144 @@
+# Tynker
+
+> Tynker is the world's leading coding platform for kids and teens ages 5-18. Tynker makes it fun and easy to learn programming and develop problem-solving and critical thinking skills through game-based, interactive courses. Tynker powers the creativity of over 100 million students and serves thousands of schools and educators worldwide. Kids start with visual block-based coding and progress to real-world languages like Python and JavaScript.
+
+## Top Navigation
+
+### Play
+- [Coding Games](https://www.tynker.com/play/)
+- [Minecraft](https://www.tynker.com/minecraft/)
+  - [Minecraft Skins](https://www.tynker.com/minecraft/skins/)
+  - [Minecraft Mods](https://www.tynker.com/minecraft/mods/)
+  - [Minecraft Mobs](https://www.tynker.com/minecraft/mobs/)
+  - [Minecraft Items](https://www.tynker.com/minecraft/items/)
+  - [Minecraft Addons](https://www.tynker.com/minecraft/addons/)
+  - [Minecraft Blocks](https://www.tynker.com/minecraft/blocks/)
+- [Hour of Code](https://www.tynker.com/hour-of-code/)
+- [Community](https://www.tynker.com/community/galleries/)
+
+### Parents
+- [Parents Overview](https://www.tynker.com/parents/)
+- [Curriculum](https://www.tynker.com/parents/curriculum/)
+- [Plans & Pricing](https://www.tynker.com/parents/pricing/)
+- [Gift](https://www.tynker.com/parents/gift)
+
+### Educators
+- [Educators Overview](https://www.tynker.com/school/)
+- [School Curriculum](https://www.tynker.com/school/coding-curriculum/)
+- [Standards Alignment](https://www.tynker.com/school/standards/)
+- [Request a Quote](https://www.tynker.com/school/coding-curriculum/request)
+- [Training & PD](https://www.tynker.com/school/training/)
+- [Hour of Code for Teachers](https://www.tynker.com/hour-of-code/teacher)
+
+### Resources
+- [What is Coding?](https://www.tynker.com/coding-for-kids/what-is-coding-for-kids/)
+- [Why Coding Matters](https://www.tynker.com/coding-for-kids/why-coding-matters/)
+- [Coding eBooks](https://www.tynker.com/ebooks/)
+- [Mobile Apps](https://www.tynker.com/mobile/)
+- [Blog](https://www.tynker.com/blog/)
+
+### Support
+- [Support Overview](https://www.tynker.com/support/)
+- [Contact Support](https://www.tynker.com/contact)
+- [Schools Help Center](https://tynkerschools.frontkb.com/en)
+- [Home Help Center](https://tynkerhome.frontkb.com/)
+
+## Homepage
+
+- [Get Started for Free](https://www.tynker.com/)
+- [Explore All Courses](https://www.tynker.com/parents/curriculum)
+- [Explore Curriculum](https://www.tynker.com/parents/curriculum/)
+- [Text-Based Languages](https://www.tynker.com/languages/)
+
+### Coding Benefits
+- [Top 10 Reasons to Code](https://www.tynker.com/blog/articles/ideas-and-tips/10-reasons-kids-should-learn-to-code/)
+- [Kids Coding Basics](https://www.tynker.com/blog/articles/ideas-and-tips/kids-coding-basics-why-teaching-your-kid-to-code-has-a-lifelong-impact/)
+- [Develop 21st Century Skills](https://www.tynker.com/content/how-coding-develops-21st-century-skills)
+- [Download eBooks on Coding](https://www.tynker.com/ebooks/)
+
+### Coding Guides
+- [What is Coding for Kids](https://www.tynker.com/coding-for-kids/what-is-coding-for-kids/)
+- [Coding with Minecraft](https://www.tynker.com/content/minecraft-modding-with-code)
+- [Coding with Electronic Kits](https://www.tynker.com/content/coding-with-electronic-kits)
+- [Coding with Connected Toys](https://www.tynker.com/content/coding-with-connected-toys)
+- [More Coding Resources](https://www.tynker.com/blog/?portfolio=resources-for-learning-to-code)
+
+### Tynker Highlights
+- [Meet our Featured Makers](https://www.tynker.com/blog/?portfolio=tynker-featured-makers)
+- [Seasonal Coding Projects](https://www.tynker.com/blog/?portfolio=seasonal-coding-projects)
+- [Celebrating Women in STEM](https://www.tynker.com/blog/?portfolio=women-in-stem)
+
+### Coding in Schools
+- [K-12 School Plans](https://www.tynker.com/school/coding-curriculum/)
+- [Remote Learning](https://www.tynker.com/school/covid-19-educator-resources)
+- [K-12 Success Stories](https://www.tynker.com/blog/?portfolio=k-12-success-stories)
+
+### Blog Articles
+- [Back-to-School Prep Guide](https://www.tynker.com/blog/back-to-school-prep/)
+- [Coding for Kids: A Guide to Fun and Learning](https://www.tynker.com/blog/coding-for-kids/)
+- [From Coding to Curiosity: Rethinking Higher Education](https://www.tynker.com/blog/from-coding-to-curiosity-rethinking-higher-educations-skills-for-future-career-opportunities/)
+- [Innovative Coding Frontiers with Tynker School in 2024](https://www.tynker.com/blog/innovative-coding-frontiers-with-tynker-school-in-2024/)
+
+## Footer
+
+### Resources
+- [Blog](https://www.tynker.com/blog/)
+- [About Us](https://www.tynker.com/about/)
+- [Support](https://www.tynker.com/support/)
+- [Press](https://www.tynker.com/about/press/)
+- [Jobs](https://ats.rippling.com/codehs/jobs)
+- [Mobile Apps](https://www.tynker.com/mobile/)
+- [Sitemap](https://www.tynker.com/sitemap/)
+- [Coding eBooks](https://www.tynker.com/ebooks/)
+- [Store](https://shop.tynker.com)
+
+### Parents
+- [Parents Overview](https://www.tynker.com/parents/)
+- [Curriculum](https://www.tynker.com/parents/curriculum/)
+- [Give a Gift](https://www.tynker.com/parents/gift)
+- [Redeem](https://www.tynker.com/redeem/)
+- [Why Coding](https://www.tynker.com/coding-for-kids/what-is-coding-for-kids)
+- [Featured Makers](https://www.tynker.com/blog/category/success-stories/featured-makers/)
+- [Plans & Pricing](https://www.tynker.com/parents/pricing/)
+- [Coding eBooks](https://www.tynker.com/ebooks/)
+
+### Play
+- [Coding Games](https://www.tynker.com/play/)
+- [Minecraft](https://www.tynker.com/minecraft/)
+- [Minecraft Skins](https://www.tynker.com/minecraft/skins/)
+- [Minecraft Skin Editor](https://www.tynker.com/minecraft/skins/skin-editor/)
+- [Minecraft Mobs](https://www.tynker.com/minecraft/mobs/)
+- [Minecraft Blocks](https://www.tynker.com/minecraft/blocks/)
+- [Minecraft Add-ons](https://www.tynker.com/minecraft/addons/)
+- [Minecraft Items](https://www.tynker.com/minecraft/items/)
+- [Minecraft Mods](https://www.tynker.com/minecraft/mods/)
+- [Code Jam](https://www.tynker.com/play/code-jam/)
+- [Hour of Code](https://www.tynker.com/hour-of-code/)
+
+### Educators
+- [Educators Overview](https://www.tynker.com/school/)
+- [School Curriculum](https://www.tynker.com/school/coding-curriculum/)
+- [Elementary](https://www.tynker.com/elementary-school/coding-curriculum)
+- [Middle School](https://www.tynker.com/middle-school/coding-curriculum)
+- [High School](https://www.tynker.com/high-school/coding-curriculum)
+- [AP CS Courses](https://www.tynker.com/apcs-school/coding-curriculum/apcs-principles)
+- [K-2 School](https://www.tynker.com/k2-school/coding-curriculum)
+- [K-8 School](https://www.tynker.com/k8-school/coding-curriculum)
+- [Standards Alignment](https://www.tynker.com/school/standards/)
+- [Professional Development](https://www.tynker.com/school/training/)
+- [Hour of Code](https://www.tynker.com/hour-of-code/teacher)
+- [STEM Projects](https://www.tynker.com/school/stem?t=physical+science)
+- [Request a Quote](https://www.tynker.com/school/coding-curriculum/request)
+
+### Legal & Company
+- [Terms & Conditions](https://www.tynker.com/terms/)
+- [Privacy Policy](https://www.tynker.com/privacy/)
+- [Kids & Online Safety](https://www.tynker.com/kids-online-safety)
+- [About Us](https://www.tynker.com/about/)
+- [Contact Us](https://www.tynker.com/about/contact)
+
+### Social Media
+- [Facebook](https://www.facebook.com/GoTynker)
+- [Twitter / X](https://twitter.com/gotynker)
+- [YouTube](https://www.youtube.com/channel/UC2MAKe5X7pohhiMZ4nzdInA)
+- [Instagram](https://www.instagram.com/tynkercoding)

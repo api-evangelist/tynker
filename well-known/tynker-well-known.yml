@@ -1,0 +1,19 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.tynker.com
+host: https://www.tynker.com
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 200
+    file: ../llms/tynker-llms.txt
+    note: Provider publishes a real llms.txt at the site root; saved verbatim in llms/.

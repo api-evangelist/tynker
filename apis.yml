@@ -1,7 +1,25 @@
 aid: tynker
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tynker.png
 name: Tynker
-description: Tynker is a company surfaced as a portfolio company of 500-global, felicis and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Tynker is a coding platform for kids and teens ages 5-18 that makes it
+  fun to learn programming through game-based, interactive courses, with students
+  starting in visual block-based coding and progressing to real-world languages like
+  Python and JavaScript. The platform powers the creativity of over 100 million students
+  and serves thousands of schools and educators worldwide, spanning home plans for
+  parents, K-12 school curriculum, Hour of Code activities, and Minecraft modding.
+  Tynker is a 500 Global and Felicis portfolio company, now part of CodeHS, and publishes
+  no public developer API surface.
 url: https://raw.githubusercontent.com/api-evangelist/tynker/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +29,22 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Education
+- EdTech
+- Coding
+- Kids
+- STEM
+- Programming
+- Minecraft
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +52,23 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/tynker-domain-security.yml
 - type: Website
   url: https://tynker.com
+- type: LLMsTxt
+  url: llms/tynker-llms.txt
+- type: WellKnown
+  url: well-known/tynker-well-known.yml
+- type: Blog
+  url: https://www.tynker.com/blog/
+- type: Support
+  url: https://www.tynker.com/support/
+- type: Pricing
+  url: https://www.tynker.com/parents/pricing/
+- type: TermsOfService
+  url: https://www.tynker.com/terms/
+- type: PrivacyPolicy
+  url: https://www.tynker.com/privacy/
+- type: SignUp
+  url: https://www.tynker.com/signup
