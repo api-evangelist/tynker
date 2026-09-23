@@ -2,7 +2,9 @@ generated: '2026-07-21'
 method: searched
 source: https://www.tynker.com
 host: https://www.tynker.com
-documents:
+hosts:
+- host: https://www.tynker.com
+  documents:
   - path: /.well-known/security.txt
     status: 404
   - path: /.well-known/openid-configuration
@@ -13,7 +15,8 @@ documents:
     status: 404
   - path: /.well-known/ai-plugin.json
     status: 404
-  - path: /llms.txt
-    status: 200
-    file: ../llms/tynker-llms.txt
-    note: Provider publishes a real llms.txt at the site root; saved verbatim in llms/.
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
